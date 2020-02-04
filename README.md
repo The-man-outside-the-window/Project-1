@@ -1,11 +1,7 @@
 # Project-1
 Rodney Tippery's Programming Project number one
 
-Right now the readme is empty, because I have not decided what I wanted to put here yet.
-
-	Don't worry though. I'm sure i'll think of something sooner or later.
-For now, I'm going to fill this file whith some filler text to make it look like I know
-what i'm doing. 
+Nothing
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor cursus suscipit. Proin condimentum, turpis sed euismod congue, dui erat lacinia metus, eu congue ante ligula ut massa. Aenean tincidunt turpis dui, ut pharetra risus pulvinar vel. Sed eu orci risus. Phasellus vestibulum, lorem ac sollicitudin ullamcorper, erat odio varius magna, eu pretium velit ex at mauris. Sed ac dolor eu tortor rutrum aliquet. Maecenas ante lorem, auctor venenatis bibendum vel, hendrerit ut elit. Quisque quis libero sit amet odio tempus gravida at ac quam. Fusce at euismod lacus. Vestibulum id bibendum ipsum, ut dictum ex. Fusce id ullamcorper sem, sed venenatis ex. Suspendisse quis turpis ante. Etiam a dui a magna vulputate pretium et a enim. Donec vehicula lectus in sem condimentum placerat. Etiam tincidunt, nunc feugiat aliquam laoreet, urna augue dictum ex, vitae malesuada purus tortor eu turpis.
 
