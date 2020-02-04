@@ -29,12 +29,17 @@
 
 img { max-width: 100%; height: auto; }
 
+.header {
+    font-size: 100px;
+    text-align: center;
+    float: none;
+}
+
 .infoText {
     background-color: azure;
     font-size: 20px;
     height: 230px;
     width: 300px;
-    top: 1%;
     text-align: center;
     margin: auto;
 }
@@ -46,4 +51,14 @@ text-align: center;
 
 .linkForm {
     border-color: black;
+}
+
+.questionMark {
+    clear: both;
+    margin-left: 700px;
+    width: 100px;
+}
+
+.mediaDisplay {
+    
 }
